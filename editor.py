@@ -1,5 +1,5 @@
 #This is a simple text editor using Tkinter, one of the standard python GUI package
-
+#python version: Python 3.6.3
 from tkinter import *
 from tkinter import filedialog
 from tkinter.messagebox import showerror
